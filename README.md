@@ -7,6 +7,7 @@ Para compilar e rodar o Back-End da Aplicação:
   * Link com instruções de instalação:
     * No Windows: https://howtodoinjava.com/maven/how-to-install-maven-on-windows/
     * No Linux e No MacOs:https://www.baeldung.com/install-maven-on-windows-linux-mac
+* Vá até a pasta TelephonyPlanCalculator
 * Compile o programa. Para compilar:
   * No terminal, vá até a pasta telephony-plan-calculator, onde se encontra o pom.xml, e digite : 
     
@@ -21,9 +22,10 @@ Para compilar e rodar o Back-End da Aplicação:
 
 * Para executar o back-end:
   * No terminal, estando na pasta telephony-plan-calculator, vá até a pasta target, onde está o jar da aplicação. Digite:
+  
     **java -jar telephony-plan-calculator-0.0.1-SNAPSHOT.jar**
     
-    **Por exemplo, no terminal e na pasta telephony-plan-calculator, digite cd target e após java-jar telephony-plan-calculator.jar**
+    **Por exemplo, no terminal e na pasta telephony-plan-calculator, digite cd target e após java -jar telephony-plan-calculator-0.0.1-SNAPSHOT.jar**
     
 ## Front-End
 Para compilar e rodar o Front-End da Aplicação:
