@@ -37,4 +37,6 @@ Para compilar e rodar o Front-End da Aplicação:
 
   **npm start**
 
-**OBSERVAÇÃO**: Para a aplicação funcionar corretamente o back-end deve estar executando quando for executar o front-end da aplicação.
+**OBSERVAÇÃO**: 
+* Para a aplicação funcionar corretamente o back-end deve estar executando quando for executar o front-end da aplicação.
+* Não esqueça de instalar jdk 8 no computador, pois o back-end é executado em Java.
