@@ -157,8 +157,8 @@ export default class Main extends Component{
 				</thead>
 			    <tbody>
 				    <tr>
-					    <td>{this.state.result.data.priceWithPlan}</td>
-						<td>{this.state.result.data.priceWithoutPlan}</td>
+					    <td>R$ {this.state.result.data.priceWithPlan}</td>
+						<td>R$ {this.state.result.data.priceWithoutPlan}</td>
 					</tr>
 				</tbody>
 			</Table>
