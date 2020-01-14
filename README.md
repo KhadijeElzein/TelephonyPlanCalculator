@@ -17,11 +17,11 @@ Para compilar e rodar o Back-End da Aplicação:
 * Para executar os testes:
   * No terminal, estando na pasta telephony-plan-calculator, onde se encontra o pom.xml, digite : 
   
-    **mvn clean test**
+    **mvn test**
 
 * Para executar o back-end:
   * No terminal, estando na pasta telephony-plan-calculator, vá até a pasta target, onde está o jar da aplicação. Digite:
-    **java -jar telephony-plan-calculator.jar**
+    **java -jar telephony-plan-calculator-0.0.1-SNAPSHOT.jar**
     
     **Por exemplo, no terminal e na pasta telephony-plan-calculator, digite cd target e após java-jar telephony-plan-calculator.jar**
     
